@@ -1,0 +1,1 @@
+.crypto-price-chart .chart-container text.title{text-transform:capitalize;color:var(--widget-text-color)}.crypto-price-chart .chart-container .axis,.crypto-price-chart .chart-container .chart-label{fill:var(--widget-text-color);opacity:var(--dimming-factor)}.crypto-price-chart .chart-container .axis:hover,.crypto-price-chart .chart-container .chart-label:hover{opacity:1}

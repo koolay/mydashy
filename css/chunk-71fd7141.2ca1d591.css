@@ -1,0 +1,1 @@
+.cpu-history-chart .chart-container text.title{text-transform:capitalize;color:var(--widget-text-color)}.cpu-history-chart .chart-container .axis,.cpu-history-chart .chart-container .chart-label{fill:var(--widget-text-color);opacity:var(--dimming-factor)}.cpu-history-chart .chart-container .axis:hover,.cpu-history-chart .chart-container .chart-label:hover{opacity:1}

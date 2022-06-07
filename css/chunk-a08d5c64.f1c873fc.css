@@ -1,0 +1,1 @@
+.load-history-chart .chart-container text.title{text-transform:capitalize;color:var(--widget-text-color)}.load-history-chart .chart-container .axis,.load-history-chart .chart-container .chart-label{fill:var(--widget-text-color);opacity:var(--dimming-factor)}.load-history-chart .chart-container .axis:hover,.load-history-chart .chart-container .chart-label:hover{opacity:1}
